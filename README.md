@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">ALjwharah</h1>
-<p align="center">An open-source AI coding agent for working in your development environment.</p>
+<p align="center">A private AI coding agent for working in your development environment.</p>
 
-ALjwharah is a fork of [OpenCode](https://github.com/anomalyco/opencode), independently developed in this repository. It brings AI-assisted development workflows to the terminal and desktop.
+ALjwharah brings AI-assisted development workflows to the terminal and desktop.
 
 ## Development
 
@@ -24,4 +24,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AGENTS.md](AGENTS.md) for project co
 
 ## License
 
-This project is distributed under the [MIT License](LICENSE). The original copyright notice is retained.
+This project is proprietary. License terms are pending; see [LICENSE](LICENSE).
